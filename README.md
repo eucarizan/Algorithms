@@ -9,3 +9,6 @@ Implement many algorithmic programming challenges in a programming language of c
 
 ### Prepare for a coding interview
 No other online course in Algorithms focuses on programming challenges that can be encountered at coding interviews.
+
+### Problems
+[list of problems](problems.md)
